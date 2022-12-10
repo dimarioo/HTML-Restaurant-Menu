@@ -74,6 +74,11 @@ nav a:hover {
     padding: 20px;
     margin: 10px;
 }
+div ul{
+    list-style: none;
+    text-align: center;
+    
+}
 
 table {
     border: 3px solid black;
